@@ -18,11 +18,11 @@ export default function Navbar() {
       }  `}
     >
       <nav className="max-w-7xl mx-auto px-6 py-3 flex justify-between items-center">
-        <div className="text-white font-semibold text-lg">
+        <div className="text-[#EFF5E1] font-semibold text-lg">
           Nebula X Pro
         </div>
 
-        <div className="hidden md:flex space-x-8 text-sm text-white font-light items-center">
+        <div className="hidden md:flex space-x-8 text-sm text-[#EFF5E1] font-light items-center">
           <Link href="#overview" className="hover:opacity-80 transition">
             Overview
           </Link>

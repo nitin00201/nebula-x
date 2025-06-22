@@ -36,7 +36,7 @@ export default function HeroSection() {
         >
           <a
             href="#buy"
-            className="inline-block bg-purple-600 text-white px-6 py-2 rounded-full text-sm font-medium hover:bg-purple-700 transition"
+            className="inline-block bg-purple-600 text-[#EFF5E1] px-6 py-2 rounded-full text-sm font-medium hover:bg-purple-700 transition"
           >
             Pre-order Now
           </a>

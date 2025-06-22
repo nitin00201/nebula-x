@@ -43,7 +43,7 @@ const variants = [
 
 export default function BuyOptions() {
   return (
-    <section className="bg-black py-24 px-6 md:px-16 font-poppins text-white">
+    <section className="bg-black py-24 px-6 md:px-16 font-poppins text-[#EFF5E1]">
       <div className="text-center mb-16">
         <motion.h2
           initial={{ opacity: 0, y: 40 }}

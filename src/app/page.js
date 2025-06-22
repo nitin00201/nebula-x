@@ -1,5 +1,6 @@
 import ArCameraFeatures from '@/components/ArCameraFeatures';
 import BuyOptions from '@/components/BuyOptions';
+import EmailSubscribe from '@/components/EmailSubscribe';
 import FAQ from '@/components/FAQ';
 import Features from '@/components/Features';
 import Footer from '@/components/Footer';
@@ -27,6 +28,7 @@ export default function Home() {
         <ArCameraFeatures/>
         <BuyOptions/>
         <FAQ/>
+        <EmailSubscribe/>
         <Footer/>
 
       </main>
